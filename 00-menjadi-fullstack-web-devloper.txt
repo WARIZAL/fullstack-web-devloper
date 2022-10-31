@@ -1,44 +1,44 @@
 Menjadi Fullstack Web Developer
 Kelas online belajar Fullstack web developer from A to Z. Cocok buat yang pengen punya karir bagus, skill dibutuhin industri, gaji tinggi dan bisa bikin web atau aplikasi buat ngembangin bisnis online sendiri.
 Roadmaps
-1.	Panduan Member
-2.	Pengenalan Pemrograman
-a.	Mengenal Pemrograman Komputer
-b.	Algoritma dan Pemrograman Dasar
-c.	Mahir menggunakan Text Editor buat Pemula
-d.	Belajar GIT untuk Pemula
-e.	
-3.	Front End Dasar
-Belajar Dasar HTML
-Belajar Dasar CSS
-Belajar Bootstrap CSS Framework
+1.Panduan Member
+2.Pengenalan Pemrograman
+a.Mengenal Pemrograman Komputer
+b.Algoritma dan Pemrograman Dasar
+c.Mahir menggunakan Text Editor buat Pemula
+d.Belajar GIT untuk Pemula
+	
+3.Front End Dasar
+a.Belajar Dasar HTML
+b.Belajar Dasar CSS
+c.Belajar Bootstrap CSS Framework
 
 4.	Front End Lanjutan
-Belajar JavaScript Dasar
-Belajar JQuery Dasar
-Membuat Landing Page Website dengan Bootstrap 4
-Membuat Halaman Website Portofolio Menggunakan Tailwind CSS
-Belajar Cepat Vue.js
+a.Belajar JavaScript Dasar
+b.Belajar JQuery Dasar
+c.Membuat Landing Page Website dengan Bootstrap 4
+d.Membuat Halaman Website Portofolio Menggunakan Tailwind CSS
+e.Belajar Cepat Vue.js
 
 5.	Back End Dasar
-Belajar Pemrograman PHP
-Pengenalan Database Menggunakan MySQL
-Penggunaan Database MySQL pada Pemrograman PHP
-Konsep Dasar Pemrograman Berorientasi Objek Di  PHP
+a.Belajar Pemrograman PHP
+b.Pengenalan Database Menggunakan MySQL
+c.Penggunaan Database MySQL pada Pemrograman PHP
+d.Konsep Dasar Pemrograman Berorientasi Objek Di  PHP
 
 6.	Back End Lanjutan
-Menguasai Framework Codeigniter
-Laravel 8X Fundamental
-Membangun RESTful API Dengan Laravel 6
-Sistem Otentikasi API Beasisiwa OAuth dengan Laravel Passport
-Membuat Role Management Menggunakan Laravel
+a.Menguasai Framework Codeigniter
+b.Laravel 8X Fundamental
+c.Membangun RESTful API Dengan Laravel 6
+d.Sistem Otentikasi API Beasisiwa OAuth dengan Laravel Passport
+e.Membuat Role Management Menggunakan Laravel
 
 7.	Studi Kasus Fullstack
-Membangun Website Toko Online Berbasis Codeigniter
-Belajar Vue 3 dan Firebase Studi Kasus Blog 
-Inplementasi payment gadway indonesia Menggunakan Laravel 
-Membuat Toko Online Dengan Laravel LiveWire Dan Payment Gatway
-Membangun Aplikasi Cek Ongkir Menggunakan Laravel
+a.Membangun Website Toko Online Berbasis Codeigniter
+b.Belajar Vue 3 dan Firebase Studi Kasus Blog 
+c.Inplementasi payment gadway indonesia Menggunakan Laravel 
+d.Membuat Toko Online Dengan Laravel LiveWire Dan Payment Gatway
+e.Membangun Aplikasi Cek Ongkir Menggunakan Laravel
 
 8.	Tugas Projek
 
