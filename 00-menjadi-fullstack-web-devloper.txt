@@ -13,33 +13,33 @@ a.Belajar Dasar HTML
 b.Belajar Dasar CSS
 c.Belajar Bootstrap CSS Framework
 
-4.	Front End Lanjutan
+4.Front End Lanjutan
 a.Belajar JavaScript Dasar
 b.Belajar JQuery Dasar
 c.Membuat Landing Page Website dengan Bootstrap 4
 d.Membuat Halaman Website Portofolio Menggunakan Tailwind CSS
 e.Belajar Cepat Vue.js
 
-5.	Back End Dasar
+5.Back End Dasar
 a.Belajar Pemrograman PHP
 b.Pengenalan Database Menggunakan MySQL
 c.Penggunaan Database MySQL pada Pemrograman PHP
 d.Konsep Dasar Pemrograman Berorientasi Objek Di  PHP
 
-6.	Back End Lanjutan
+6.Back End Lanjutan
 a.Menguasai Framework Codeigniter
 b.Laravel 8X Fundamental
 c.Membangun RESTful API Dengan Laravel 6
 d.Sistem Otentikasi API Beasisiwa OAuth dengan Laravel Passport
 e.Membuat Role Management Menggunakan Laravel
 
-7.	Studi Kasus Fullstack
+7.Studi Kasus Fullstack
 a.Membangun Website Toko Online Berbasis Codeigniter
 b.Belajar Vue 3 dan Firebase Studi Kasus Blog 
 c.Inplementasi payment gadway indonesia Menggunakan Laravel 
 d.Membuat Toko Online Dengan Laravel LiveWire Dan Payment Gatway
 e.Membangun Aplikasi Cek Ongkir Menggunakan Laravel
 
-8.	Tugas Projek
+
 
 
